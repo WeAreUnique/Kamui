@@ -23,6 +23,34 @@
 		"oAP": "\/.gitignore",
 		"oF": 0
 		},
+	"\/about.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/about.html",
+		"oF": 0
+		},
+	"\/blog-single.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/blog-single.html",
+		"oF": 0
+		},
+	"\/careers.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/careers.html",
+		"oF": 0
+		},
+	"\/contact.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/contact.html",
+		"oF": 0
+		},
 	"\/css\/animate.css": {
 		"aP": 1,
 		"bl": 0,
@@ -11390,6 +11418,34 @@
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
+		},
+	"\/news.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/news.html",
+		"oF": 0
+		},
+	"\/product-cat.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/product-cat.html",
+		"oF": 0
+		},
+	"\/product-single.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/product-single.html",
+		"oF": 0
+		},
+	"\/products.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/products.html",
+		"oF": 0
 		},
 	"\/README.md": {
 		"cB": 0,

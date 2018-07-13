@@ -1,5 +1,6 @@
 #top-language {
     float: right !important;
+    padding-top: 0 !important;
     li>a {
         padding-left: 5px !important;
         padding-right: 5px !important;
@@ -9,8 +10,14 @@
 #top-user {
     float: right !important;
     margin-left: 10px !important;
+    padding-top: 0 !important;
     li>a {
         padding-left: 5px !important;
         padding-right: 5px !important;
     }
+}
+#footer{
+    background-color: #063275 !important;
+    color: #fff;
+
 }
